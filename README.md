@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-<img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=007396"/>
+<img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=007396"/> <img src="https://img.shields.io/badge/C++-blue?style=flat&logo=C++&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/C-gray?style=flat&logo=C&logoColor=A8B9CC"/>
 
 <!---
 HaeJunAn/HaeJunAn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
